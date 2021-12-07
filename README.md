@@ -1,5 +1,9 @@
 # Marketing Analysis Project
 
+![Screen Shot 2021-12-07 at 1 19 27 PM](https://user-images.githubusercontent.com/88220704/145092387-a75bcdac-051d-4552-b7bc-66b5ea56bfb9.png)
+
+
+
 In this project, we analyze customer data to draw insights on the effectiveness of several different marketing campaigns as well as extracting patterns between different customer profiles and preferences. The dataset was obtained from Kaggle and contained the information described in the data dictionary below
 
 ## Data Dictionary
