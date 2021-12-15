@@ -4,7 +4,7 @@
 
 
 
-In this project, we analyze customer data to draw insights on the effectiveness of several different marketing campaigns as well as extracting patterns between different customer profiles and preferences. The dataset was obtained from Kaggle and contained the information described in the data dictionary below
+In this project, I analyzed customer data to draw insights on the effectiveness of several different marketing campaigns as well as extracting patterns between different customer profiles and preferences. The dataset was obtained from Kaggle and contained the information described in the data dictionary below
 
 ## Data Dictionary
 
@@ -39,29 +39,29 @@ In this project, we analyze customer data to draw insights on the effectiveness 
 
 ## Data exploration and preprocessing
 
-* After initial exploration of the data, we cleaned the data to make it functional for analysis and we observed the distributions and summary statistics for both the numerical and categorical values. We also created new features to aid in deeper analysis. Finally, we dealt with missing values and outliers. 
+* After initial exploration of the data, I cleaned the data to make it functional for analysis and I observed the distributions and summary statistics for both the numerical and categorical values. I also created new features to aid in deeper analysis. Finally, I dealt with missing values and outliers. 
 
 ## Analysis
 
-* Our analysis began with a concentration on the marketing campaigns and their effectiveness on the customer base. We then delved deeper by incorporating differences in income to extract information about the effect income has on whether or not a customer will accept a campaign. For example in the following graph, we can see that there is a significant different in the effectiveness of campaign 5 when you consider income. 
+* My analysis began with a concentration on the marketing campaigns and their effectiveness on the customer base. I then delved deeper by incorporating differences in income to extract information about the effect income has on whether or not a customer will accept a campaign. For example in the following graph, we can see that there is a significant different in the effectiveness of campaign 5 when you consider income. 
 
 <img src="https://user-images.githubusercontent.com/88220704/139193739-e28fbb41-8729-49a2-b15d-359e899d2c9a.png" width="500" height="350" />
 
-We also incorporated categorical variables to assess its effect on the efffectiveness of the marketing campaigns. For example, in the following graph we can see the differences as a result of education level. 
+I also incorporated categorical variables to assess its effect on the efffectiveness of the marketing campaigns. For example,the following graph shows the differences as a result of education level. 
 
 <img src="https://user-images.githubusercontent.com/88220704/139194126-1d35c415-36ff-4000-bc9c-f1e3497a998b.png" width="500" height="350" />
 
 
 
 
-We then observed the performances across different purchasing channels to see if we can gain furtehr insights on customer spending. For instance, we split the customer base into different income bins to see if we can spot distinctions between purchasing channels. 
+I then observed the performances across different purchasing channels to see if I can gain furtehr insights on customer spending. For instance, I split the customer base into different income bins to see if I could spot distinctions between purchasing channels. 
 
 
 
 <img src="https://user-images.githubusercontent.com/88220704/139194702-dd44b95e-e70c-4ae8-a807-7f7638aa5083.png" width="500" height="350" />
 
 
-Finally, We created a new customer profile based on characteristics we've found to be most important, so that we can therefore see the difference in acceptance of the marketing campaigns. 
+Finally, I created a new customer profile based on characteristics that I found to be most important, so that I can therefore see the difference in acceptance of the marketing campaigns. 
 
 
 <img src="https://user-images.githubusercontent.com/88220704/139195015-c399d692-b029-4e80-8b62-b545b9acf81b.png" width="500" height="350" />
